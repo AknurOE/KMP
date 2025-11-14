@@ -115,11 +115,16 @@ This demonstrates how the algorithm scales with input size and pattern complexit
 
 ##Graphing Complexity
 
-A Python script plot_complexity.py is provided to generate graphs showing:
+A Python script kmp.py is provided to generate graphs showing:
 
 Time complexity (execution time vs text length)
 
+![Time and Space Complexity](images/Figure_1.png)
+
+
 Space complexity (estimated memory usage vs text length)
+
+![Time and Space Complexity](images/Figure_2.png)
 
 This allows visualization of algorithm behavior for short, medium, and long inputs.
 
