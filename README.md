@@ -113,7 +113,7 @@ This demonstrates how the algorithm scales with input size and pattern complexit
 }
 ```
 
-##Graphing Complexity
+## Graphing Complexity
 
 A Python script kmp.py is provided to generate graphs showing:
 
@@ -129,7 +129,7 @@ Space complexity (estimated memory usage vs text length)
 This allows visualization of algorithm behavior for short, medium, and long inputs.
 
 
-##Summary
+## Summary
 
 Implemented KMP algorithm from scratch in Java
 
