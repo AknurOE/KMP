@@ -119,12 +119,12 @@ A Python script kmp.py is provided to generate graphs showing:
 
 Time complexity (execution time vs text length)
 
-![Time and Space Complexity](images/Figure_1.png)
+![Time and Space Complexity](src/images/Figure_1.png)
 
 
 Space complexity (estimated memory usage vs text length)
 
-![Time and Space Complexity](images/Figure_2.png)
+![Time and Space Complexity](src/images/Figure_2.png)
 
 This allows visualization of algorithm behavior for short, medium, and long inputs.
 
